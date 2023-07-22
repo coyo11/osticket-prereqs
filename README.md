@@ -20,7 +20,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Enabled IIS
 - Installed Web Platform Installer 
-- Install MySQL 
+- Installed MySQL 
 - Setup username and passwords
 - Configure permissions/Install osTicket
 
